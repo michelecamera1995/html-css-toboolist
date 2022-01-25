@@ -4,7 +4,7 @@
 }
 
 .font { 
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .bold { 
@@ -56,24 +56,24 @@ main {
     background-color:rgb(255, 255, 255) ;
 }
 
-ul {
+ul li {
     list-style-type: none;
+    padding-bottom: 10px;
   }
 
-  .positive {
-    color:green
-    border: 0.5px solid green;  
+.positive {
+    color:rgba(111, 198, 178, 1);
+    border: 0.5px solid rgba(111, 198, 178, 1) ;  
     border-radius:50%;
   }
 
-  .positive {
-    content: '&check;'
-    color:green
-    border: 0.5px solid green;  
+.negative {
+    color:rgba(244, 191, 190, 1);
+    border: 0.5px solid rgba(244, 191, 190, 1) ;  
     border-radius:50%;
   }
 
-  .Beditorial {
+.Beditorial {
     width: 55px;
     height: 20px;
     color: white; 
@@ -82,5 +82,55 @@ ul {
     border-radius: 15%;
     background-color:rgba(71, 173, 241, 1) ;
 }
-    
+  
+.Bgoals {
+    width: 55px;
+    height: 20px;
+    color: white; 
+    font-size: 10px;
+    border: none;
+    border-radius: 15%;
+    background-color: rgba(156, 114, 228, 1);
+}
+
+.Brecruit {
+    width: 55px;
+    height: 20px;
+    color: white; 
+    font-size: 10px;
+    border: none;
+    border-radius: 15%;
+    background-color: rgba(100, 192, 169, 1);
+}
+
+.Bmobile {
+    width: 55px;
+    height: 20px;
+    color: white; 
+    font-size: 10px;
+    border: none;
+    border-radius: 15%;
+    background-color: rgba(242, 158, 51, 1);
+}
+
+.Bweb {
+    width: 55px;
+    height: 20px;
+    color: white; 
+    font-size: 10px;
+    border: none;
+    border-radius: 15%;
+    background-color: rgba(216, 99, 161, 1);
+}
+
+.Bsale {
+    width: 55px;
+    height: 20px;
+    color: white; 
+    font-size: 10px;
+    border: none;
+    border-radius: 15%;
+    background-color: rgba(176, 201, 38, 1);
+}
+
 
