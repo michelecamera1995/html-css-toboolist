@@ -7,6 +7,10 @@
     font-family: 'Fira Sans', sans-serif;
 }
 
+.bold { 
+    font-size: 25px;
+}
+
 header  {
     height: 100px;
     width: 100%;
@@ -52,4 +56,31 @@ main {
     background-color:rgb(255, 255, 255) ;
 }
 
+ul {
+    list-style-type: none;
+  }
+
+  .positive {
+    color:green
+    border: 0.5px solid green;  
+    border-radius:50%;
+  }
+
+  .positive {
+    content: '&check;'
+    color:green
+    border: 0.5px solid green;  
+    border-radius:50%;
+  }
+
+  .Beditorial {
+    width: 55px;
+    height: 20px;
+    color: white; 
+    font-size: 10px;
+    border: none;
+    border-radius: 15%;
+    background-color:rgba(71, 173, 241, 1) ;
+}
+    
 
