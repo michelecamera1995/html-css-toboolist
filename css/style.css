@@ -1,0 +1,26 @@
+
+*  {
+    box-sizing: border-box;
+}
+
+header  {
+    height: 100px;
+    width: 100%;
+    line-height: 50px;
+}
+
+.logo { 
+    vertical-align: middle;
+    display: inline;
+}
+
+.htitle {
+    vertical-align: middle;
+    width: 20px;
+    display: inline;
+    padding: auto;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 50px ;
+    font-weight: bold;
+ }
+
