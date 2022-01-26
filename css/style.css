@@ -57,6 +57,7 @@ main {
 }
 
 .Baddsct {
+    margin-left: 6px;
     width: 65px;
     height: 25px;
     color: rgba(56, 56, 56, 0.356); 
