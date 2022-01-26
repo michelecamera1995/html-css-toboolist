@@ -73,14 +73,12 @@ ul li {
   }
 
 .positive {
-    content: "\2713";
     color:rgba(111, 198, 178, 1);
     border: 0.5px solid rgba(111, 198, 178, 1) ;  
     border-radius:50%;
   }
 
 .negative {
-    content: "\2573";
     color:rgba(244, 191, 190, 1);
     border: 0.5px solid rgba(244, 191, 190, 1) ;  
     border-radius:50%;
