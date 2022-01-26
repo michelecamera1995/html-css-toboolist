@@ -18,6 +18,10 @@
     margin-bottom: 40px;
 }
 
+h3::before { 
+    content: "\25be";
+}
+
 header  {
     height: 100px;
     line-height: 100px;
