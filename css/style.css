@@ -19,19 +19,17 @@
 
 header  {
     height: 100px;
-    width: 100%;
-    line-height: 50px;
+    line-height: 100px;
 }
 
 .logo { 
     vertical-align: middle;
-    display: inline;
+    display: inline-block;
 }
 
 .htitle {
     vertical-align: middle;
-    width: 20px;
-    display: inline;
+    display: inline-block;
     padding: auto;
     font-size: 50px ;
     font-weight: bold;
