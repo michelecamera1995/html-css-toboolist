@@ -86,63 +86,37 @@ ul li {
     border-radius:50%;
   }
 
-.Beditorial {
+.Bgen {
     width: 55px;
     height: 20px;
     color: white; 
     font-size: 10px;
     border: none;
-    border-radius: 15%;
+    border-radius: 15%; 
+}
+ 
+.Beditorial {
     background-color:rgba(71, 173, 241, 1) ;
 }
   
 .Bgoals {
-    width: 55px;
-    height: 20px;
-    color: white; 
-    font-size: 10px;
-    border: none;
-    border-radius: 15%;
     background-color: rgba(156, 114, 228, 1);
 }
 
 .Brecruit {
-    width: 55px;
-    height: 20px;
-    color: white; 
-    font-size: 10px;
-    border: none;
-    border-radius: 15%;
     background-color: rgba(100, 192, 169, 1);
 }
 
 .Bmobile {
-    width: 55px;
-    height: 20px;
-    color: white; 
-    font-size: 10px;
-    border: none;
-    border-radius: 15%;
     background-color: rgba(242, 158, 51, 1);
 }
 
 .Bweb {
-    width: 55px;
-    height: 20px;
-    color: white; 
-    font-size: 10px;
-    border: none;
-    border-radius: 15%;
+
     background-color: rgba(216, 99, 161, 1);
 }
 
 .Bsale {
-    width: 55px;
-    height: 20px;
-    color: white; 
-    font-size: 10px;
-    border: none;
-    border-radius: 15%;
     background-color: rgba(176, 201, 38, 1);
 }
 
